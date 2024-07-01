@@ -1,4 +1,6 @@
-![](./public/screenshot.png)
+This is a fork of lareli's repository. There read me is as follows.
+
+"![](./public/screenshot.png)
 
 # lareii.github.io
 🌐 My personal website.
@@ -21,6 +23,7 @@ cd lareii.github.io
 ```bash
 npm ci
 ```
+"
 
 4. Start the development server:
 ```bash
