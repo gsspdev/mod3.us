@@ -8,10 +8,7 @@ const spotify = ref(null);
 
 <template>
   <div class="font-sans font-black text-5xl">
-    babaoglu<span :class="['text-2xl', status]">.dev</span>
-  </div>
-  <div class="flex gap-2 text-sm text-gruvbox-gray">
-    <font-awesome-icon :icon="['fab', 'spotify']" class="mt-[3px]" />
+    mod3us<span :class="['text-2xl', status]">.dev</span>
   </div>
   <div class="flex gap-10 mt-5 text-xl">
     <a href="https://github.com/gsspdev/" target="_blank"><font-awesome-icon :icon="['fab', 'github']" /></a>
